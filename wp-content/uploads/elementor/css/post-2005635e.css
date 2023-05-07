@@ -1,0 +1,22 @@
+.elementor-2005 .elementor-element.elementor-element-6c453a6 > .elementor-container{min-height:400px;}.elementor-2005 .elementor-element.elementor-element-6c453a6:not(.elementor-motion-effects-element-type-background), .elementor-2005 .elementor-element.elementor-element-6c453a6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2023/03/Group-30-scaled.jpg");background-position:center center;}.elementor-2005 .elementor-element.elementor-element-6c453a6{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-2005 .elementor-element.elementor-element-6c453a6 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2005 .elementor-element.elementor-element-bd62098{margin-top:90px;margin-bottom:0px;}.elementor-2005 .elementor-element.elementor-element-ee2f4c8{--divider-border-style:solid;--divider-color:var( --e-global-color-secondary );--divider-border-width:1px;}.elementor-2005 .elementor-element.elementor-element-ee2f4c8 .elementor-divider-separator{width:100%;}.elementor-2005 .elementor-element.elementor-element-ee2f4c8 .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-2005 .elementor-element.elementor-element-1a2bef5 .elementor-heading-title{color:#273977;font-family:"Plexus Sans", Sans-serif;font-size:32px;font-weight:700;line-height:36px;word-spacing:0px;}.elementor-2005 .elementor-element.elementor-element-2efdd80{text-align:justify;color:#0E0E0E;font-family:"Plexus Sans", Sans-serif;font-size:16px;font-weight:400;text-transform:none;word-spacing:5px;}.elementor-2005 .elementor-element.elementor-element-2efdd80 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:20px 160px 20px 185px;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-2005 .elementor-element.elementor-element-11da15d{width:17.181%;}.elementor-2005 .elementor-element.elementor-element-5f66354{width:82.819%;}}@media(max-width:1024px){.elementor-2005 .elementor-element.elementor-element-2efdd80{text-align:left;}.elementor-2005 .elementor-element.elementor-element-2efdd80 > .elementor-widget-container{padding:20px 140px 20px 140px;}}@media(max-width:767px){.elementor-2005 .elementor-element.elementor-element-2efdd80{text-align:left;}.elementor-2005 .elementor-element.elementor-element-2efdd80 > .elementor-widget-container{padding:0px 0px 0px 0px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Bold1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Light1-1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Regular1.woff') format('woff');
+}
+/* End Custom Fonts CSS */

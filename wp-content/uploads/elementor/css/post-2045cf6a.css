@@ -1,0 +1,22 @@
+.elementor-2045 .elementor-element.elementor-element-0849f4c > .elementor-container{min-height:400px;}.elementor-2045 .elementor-element.elementor-element-679cd72 > .elementor-container{min-height:400px;}.elementor-2045 .elementor-element.elementor-element-679cd72{margin-top:44px;margin-bottom:44px;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-2045 .elementor-element.elementor-element-d8e7fc0:after{content:"0.66";}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__meta-data span + span:before{content:"•";}.elementor-2045 .elementor-element.elementor-element-d8e7fc0{--grid-column-gap:30px;--grid-row-gap:35px;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__text{margin-top:20px;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__badge{right:0;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__card .elementor-post__badge{margin:20px;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__title, .elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__title a{color:var( --e-global-color-primary );font-family:"Plexus Sans", Sans-serif;font-size:32px;font-weight:400;text-transform:none;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__meta-data{font-family:"Plexus Sans", Sans-serif;font-size:12px;font-weight:700;text-transform:none;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__excerpt p{color:#000000;font-family:"Plexus Sans", Sans-serif;font-size:16px;font-weight:400;text-transform:none;}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-post__read-more{color:var( --e-global-color-secondary );}.elementor-2045 .elementor-element.elementor-element-d8e7fc0 a.elementor-post__read-more{font-family:"Plexus Sans", Sans-serif;font-size:12px;font-weight:500;text-transform:none;}:root{--page-title-display:none;}@media(max-width:767px){.elementor-2045 .elementor-element.elementor-element-d8e7fc0 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-2045 .elementor-element.elementor-element-d8e7fc0:after{content:"0.5";}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Bold1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Light1-1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Regular1.woff') format('woff');
+}
+/* End Custom Fonts CSS */

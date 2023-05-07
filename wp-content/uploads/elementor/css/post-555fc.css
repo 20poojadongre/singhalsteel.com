@@ -1,0 +1,22 @@
+.elementor-kit-5{--e-global-color-primary:#273977;--e-global-color-secondary:#EC7C23;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-05a562a:#FFFFFF;--e-global-typography-primary-font-family:"Plexus Sans";--e-global-typography-primary-font-size:32px;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-text-transform:none;--e-global-typography-secondary-font-family:"Plexus Sans";--e-global-typography-secondary-font-size:12px;--e-global-typography-secondary-font-weight:700;--e-global-typography-text-font-family:"Plexus Sans";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:300;--e-global-typography-text-text-transform:capitalize;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-0df2ccb-font-family:"Plexus Sans";--e-global-typography-0df2ccb-font-size:16px;--e-global-typography-0df2ccb-font-weight:300;--e-global-typography-0df2ccb-text-transform:capitalize;}.elementor-kit-5 h2{font-family:"Plexus Sans", Sans-serif;font-size:30px;text-transform:none;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}.site-footer .site-branding .site-logo img{width:6px;max-width:6px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Bold1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Light1-1.woff') format('woff');
+}
+@font-face {
+	font-family: 'Plexus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/03/PlexusSans-Regular1.woff') format('woff');
+}
+/* End Custom Fonts CSS */
